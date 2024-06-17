@@ -1,6 +1,6 @@
 {
   "homepage": "https://harika-brs.github.io/currency-converter",
-  "name": "currency-convertor",
+  "name": "currency-converter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
